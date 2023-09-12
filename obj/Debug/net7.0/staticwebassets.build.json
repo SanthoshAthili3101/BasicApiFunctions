@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dkeu1fRVUWl4c8hy8hiL6LUCc3jZtkKYs0VvoBoiyMY=",
+  "Source": "SampleApiCheckingAS",
+  "BasePath": "_content/SampleApiCheckingAS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
