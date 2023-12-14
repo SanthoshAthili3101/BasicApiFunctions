@@ -9,4 +9,4 @@
    f. Delete record
 
 2. Given custom names to API end point
-3. Handled undocmunted while getting response 
+3. Handled undocumented errors while getting response 
